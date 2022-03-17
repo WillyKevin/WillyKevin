@@ -14,7 +14,7 @@
   <img align="center" alt="Willy-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Willy-Herouku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg">
   <img align="center" alt="Willy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://th.bing.com/th/id/R.c8a5e4d330019451372321f20b7290c7?rik=s9creLBGUVbbgA&pid=ImgRaw&r=0">
+  <img align="right" alt="Willy-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/images/77a44b3f2f841382daedbd690cf53c19/tenor.gif">
 </div>
 
 ##
