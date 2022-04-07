@@ -1,4 +1,4 @@
-## Bem Vindo ao meu perfil :p 🥇
+## Bem Vindo ao meu perfil 🉐
 
 <div align="center">
   <a href="https://github.com/willykevin">
