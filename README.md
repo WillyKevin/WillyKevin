@@ -14,7 +14,7 @@
   <img align="center" alt="Willy-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Willy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Willy-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="right" alt="Willy-pic" height="120" style="border-radius:50px;" src="https://th.bing.com/th/id/R.0b49a75251f3759bb35eb647e4952898?rik=Ap5zKw1IBBZCmw&pid=ImgRaw&r=0">
+  <img align="right" alt="Willy-pic" height="120" style="border-radius:50px;" src="https://th.bing.com/th/id/R.412af18f9a3e7cd83016f99dadde4613?rik=hbFvDDm2H2RuuQ&pid=ImgRaw&r=0">
 </div>
 
 ##
