@@ -29,7 +29,9 @@
   
   ##
   
+   ### Ouvindo 🎧
   [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/track/5erGUceK8ieHWtTXdnGP65)
+  <img align="right" alt="Willy-pic" height="100" style="border-radius:50px;" src="https://th.bing.com/th/id/R.0b8b3856c9e2a8c5eee2a36e1af04d92?rik=vUkif%2fKJYuFWjA&riu=http%3a%2f%2fmedia.giphy.com%2fmedia%2fIeCVaFnmXFpjq%2fgiphy.gif&ehk=DCH1BJI1F%2ffm7XgU0W25WULY3talMWawc5OGB5aiNRg%3d&risl=&pid=ImgRaw&r=0">
  
  ##
  
