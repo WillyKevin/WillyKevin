@@ -27,7 +27,7 @@
   <a href = "mailto:willykevin221@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/willy-kevin-42838320a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/track/5erGUceK8ieHWtTXdnGP65?si=183e380fd6e6455e)
+  [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/track/5erGUceK8ieHWtTXdnGP65)
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
