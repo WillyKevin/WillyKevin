@@ -1,4 +1,4 @@
-## Bem Vindo ao meu perfil 🉐
+## Welcome to my profile 🉐
 
 <img align="center" margin-bottom="65px" height="160em" src="https://github.com/BEPb/BEPb/blob/main/src/header_.png"/>
 
