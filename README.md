@@ -1,6 +1,6 @@
 ## Welcome to my profile 🉐
 
-<img align="center" margin-bottom="65px" height="160em" src="https://github.com/BEPb/BEPb/blob/main/src/header_.png"/>
+<img align="center" margin-bottom="65px" height="160em" src="https://i.imgur.com/XHpiJWl.jpeg"/>
 
 <div align="center">
   <a href="https://github.com/willykevin">
