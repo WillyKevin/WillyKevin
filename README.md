@@ -1,6 +1,17 @@
 ## Welcome to my profile 🉐
 
-<img align="center" margin-bottom="65px" height="160em" src="https://i.imgur.com/XHpiJWl.jpeg"/>
+<!-- <img align="center" margin-bottom="65px" height="160em" src="https://i.imgur.com/XHpiJWl.jpeg"/> -->
+<table align="center">
+  <tr>
+    <td>
+      <img height="160em" src="https://i.imgur.com/XHpiJWl.jpeg"/>
+    </td>
+    <td>
+      <img height="160em" src="https://giffiles.alphacoders.com/221/221932.gif"/>
+    </td>
+  </tr>
+</table>
+
 
 <div align="center">
   <a href="https://github.com/willykevin">
@@ -13,9 +24,10 @@
   <img align="center" alt="Willy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Willy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Willy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Willy-YOLO" height="40" width="40" src="https://img.icons8.com/?size=100&id=OsYb6orOaOVV&format=png&color=000000">
   <img align="center" alt="Willy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Willy-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="right" alt="Willy-pic" height="90" style="border-radius:50px;" src="https://th.bing.com/th/id/R.412af18f9a3e7cd83016f99dadde4613?rik=hbFvDDm2H2RuuQ&pid=ImgRaw&r=0">
+  <img align="right" alt="Willy-pic" height="90" style="border-radius:50px;" src="https://images.gr-assets.com/hostedimages/1489104577ra/22185966.gif">
   <img align="center" alt="Willy-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
 </div>
 
